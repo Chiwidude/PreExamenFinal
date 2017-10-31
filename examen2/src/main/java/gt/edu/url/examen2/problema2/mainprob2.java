@@ -1,6 +1,6 @@
 package gt.edu.url.examen2.problema2;
 
-public class Main {
+public class mainprob2 {
 
 	public static void main(String[] args) {
 		List<Integer> mylist;
